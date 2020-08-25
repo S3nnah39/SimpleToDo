@@ -23,13 +23,7 @@ The following **optional** feature is implemented:
 
 Here's a walkthrough of implemented user stories:
 
-title='Video Walkthrough'
-
-[![Open app video](http://i.imgur.com/C:\Users\TashaOgoti\Desktop\Open%20app.gif)](C:\Users\TashaOgoti\Desktop\Open%20app.gif)
-
-[Add an Item](file:///C:/Users/TashaOgoti/Pictures/Add%20Item.gif)
-
-width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif'> title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
