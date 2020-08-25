@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -15,7 +16,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:text="Add" />
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp"
+        android:text="@string/input" />
 
     <EditText
         android:id="@+id/edItem"
@@ -28,8 +31,9 @@
         android:layout_marginBottom="0dp"
         android:layout_toStartOf="@+id/btnAdd"
         android:ems="10"
-        android:hint="Add an item here!"
-        android:inputType="textPersonName" />
+        android:inputType="textPersonName"
+        android:hint="@string/my_string"
+        android:autofillHints="Add an item"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvItems"
