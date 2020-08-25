@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Manipulating the buttons was at first difficult due to the a harcoded string error.
+
 Attempting to delete an item results in either closing of the application or an error message.  
 
 ## License
